@@ -81,7 +81,6 @@ input:focus, textarea:focus {
 }
 .name-in, .email-in {
 	width: 465px;
-	margin: 4px;
 }
 .button {
 	width: 900px;
